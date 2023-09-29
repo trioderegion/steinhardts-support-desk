@@ -1,4 +1,4 @@
-# Steinhardt's Support Deck
+# Steinhardt's Support Desk
 Public support portal for Steinhardt's Guide to the Eldritch Hunt, by MonkeyDM
 
 ## Issues? Troubles? Bugs?!
