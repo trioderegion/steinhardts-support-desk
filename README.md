@@ -5,7 +5,6 @@ Public support portal for Steinhardt's Guide to the Eldritch Hunt, by MonkeyDM
 
 [Create a new issue](https://github.com/trioderegion/steinhardts-support-desk/issues/new/choose) describing the situation and track its progress.
 
-## F.A.Q's Further Information
+## New update! What's changed?
 
-[Steinhardt's Wiki](https://github.com/trioderegion/steinhardts-support-desk/wiki)
-
+See the [announcements page](https://github.com/trioderegion/steinhardts-support-desk/discussions/categories/announcements) for all release announcements and patch notes.
