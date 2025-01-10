@@ -11,9 +11,8 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is.
 
-**Does this occur with all other modules disabled? If not, list minimum required module set to reproduce issue.**
- * Yes/No
- * `warpgate` version `1.18.1`
+**Additional modules REQUIRED to reproduce bug.**
+ * example: `squadron` version `1.2.0`
 
 **To Reproduce**
 Steps to reproduce the behavior:
